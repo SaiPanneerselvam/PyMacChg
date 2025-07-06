@@ -23,7 +23,3 @@
 
 - Python 3.x
 
-## Example Output
-
-```
-===== CyMacZxC: Hardware Information
